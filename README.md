@@ -1,1 +1,1 @@
-# Javascript-Higher-Order-Functions-And-Arrays-filter-map-reduce-sort-
+Javascript higher order functions and arrays - forEach(), filter(), map(), reduce(), sort()
